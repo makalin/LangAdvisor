@@ -21,8 +21,8 @@ LangAdvisor is an interactive terminal-based application that helps users decide
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/langadvisor.git
-   cd langadvisor
+   git clone https://github.com/makalin/LangAdvisor.git
+   cd LangAdvisor
    ```
 
 2. Run the script:  
